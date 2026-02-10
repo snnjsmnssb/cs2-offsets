@@ -11,4 +11,18 @@
   "m_flFlashOverlayAlpha": 5612,
   "m_flNextBeep": 4508,
   "m_flTimerLength": 4520,
-  "m_hPl
+  "m_hPlayerPawn": 2316,
+  "m_iAccount": 64,
+  "m_iHealth": 852,
+  "m_iTeamNum": 1011,
+  "m_pClippingWeapon": 15808,
+  "m_pGameSceneNode": 824,
+  "m_pInGameMoneyServices": 2056,
+  "m_sSanitizedPlayerName": 2144,
+  "m_szName": 1600,
+  "m_vOldOrigin": 5512,
+  "m_vecAbsOrigin": 208,
+  "dwLocalPlayerController": 36630712,
+  "m_hController": 5536,
+  "m_iszPlayerName": 1784
+}
